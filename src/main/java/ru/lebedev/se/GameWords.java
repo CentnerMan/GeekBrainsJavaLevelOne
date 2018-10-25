@@ -7,7 +7,7 @@ import java.util.Scanner;
  * @version 1.0.3
  */
 
-public class gameWords {
+public class GameWords {
 
     private static Scanner scanner = new Scanner(System.in);
 
