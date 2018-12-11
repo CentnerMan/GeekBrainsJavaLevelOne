@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>ru.lebedev.se</groupId>
-  <artifactId>javalevelone</artifactId>
+  <artifactId>GeekBrainsJavaLevelOne</artifactId>
   <version>1.0.0</version>
 
-  <name>javalevelone</name>
+  <name>GeekBrainsJavaLevelOne</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
